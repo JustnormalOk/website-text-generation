@@ -1,4 +1,6 @@
-<img width="621" alt="Screenshot 2024-12-22 at 22 28 44" src="https://github.com/user-attachments/assets/0b05a14a-5b18-42af-a4a4-f0ed4a831e86" /># website-text-generation
+<img width="621" alt="Screenshot 2024-12-22 at 22 28 44" src="https://github.com/user-attachments/assets/0b05a14a-5b18-42af-a4a4-f0ed4a831e86" />
+
+# website-text-generation
 An AI web chat that has multiple characters, customizeable, free and even open-source!
 
 # How it works:
