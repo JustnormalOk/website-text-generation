@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Character</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="form-container">
+        <h1>Edit Character: {{ name }}</h1>
+        <form action="/edit_character/{{ name }}" method="post" enctype="multipart/form-data">
+            <label for="instructions">Custom Instructions:</label>
+            <textarea id="instructions" name="instructions" required>{{ character.instructions }}</textarea>
+            <label for="profile_picture">Profile Picture:</label>
+            <input type="file" id="profile_picture" name="profile_picture">
+            <button type="submit">Save</button>
+        </form>
+    </div>
+</body>
+</html>
