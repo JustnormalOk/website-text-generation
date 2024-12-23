@@ -72,7 +72,9 @@ For laptops and macbooks:
 
 // Image 5: Settings //
 
-- If your computer/laptop is weak, reduce the GPU offload, turn on Keep Model in Memory
+- If your computer/laptop is weak, reduce the GPU offload
+
+- Additional Note: turn on Keep Model in Memory
 
 4. After that, press Load Model
 5. After loading model, go in VS code, press app.py
