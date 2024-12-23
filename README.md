@@ -78,9 +78,10 @@ For laptops and macbooks:
 
 4. After that, press Load Model
 5. After loading model, go in VS code, press app.py
-6. Go to the tab Run and Debug, and press Run and Debug
-7. If it's running, go into the provided link
-8. Done!! That's how you do it.
+7. Create a file named `uploads` in static folders
+8. Go to the tab Run and Debug, and press Run and Debug
+9. If it's running, go into the provided link
+10. Done!! That's how you do it.
 
 
 # Notices:
