@@ -1,13 +1,6 @@
 <img width="621" alt="Screenshot 2024-12-22 at 22 28 44" src="https://github.com/user-attachments/assets/0b05a14a-5b18-42af-a4a4-f0ed4a831e86" /># website-text-generation
 An AI web chat that has multiple characters, customizeable, free and even open-source!
 
-## Explanation: 
-**Reason**: I created this open-source project because some AI websites, like Character.AI, have many characters that can talk and roleplay. Character.AI gained popularity in 2023, and everyone on social media loved it. However, around May to September 2024, the popularity of Character.AI suddenly declined. This was because Character.AI made the old version of the website somewhat limited. Around September, Character.AI announced that it would be closing the old version. Everyone loved the old version, but they didn’t like the new version because it was too limited and made it almost impossible to do roleplays or other activities. On September 25th, 2024, the old version of Character.AI shut down. Everyone had to use the new version, which was even more limited. The memory was short, and users had to buy the Character.AI+ (also known as the C.ai+) to have better memory.
-
-Later, Character.AI made the situation even worse by reducing the memory capacity. Users now had to purchase the Character.AI+ to have sufficient memory.
-
-So... this repo is open-source! You could download and try it out, it's already set up, simple as that.
-
 # How it works:
 It works when you chat, create character, and even roleplay!
 
