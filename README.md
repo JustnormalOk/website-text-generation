@@ -83,6 +83,7 @@ For laptops and macbooks:
 9. If it's running, go into the provided link
 10. Done!! That's how you do it.
 
+**YOUTUBE VIDEO TUTORIAL**: https://www.youtube.com/watch?v=B-3XbZKdfCQ
 
 # Notices:
 1. Don't forget to set the name and the profile picture, or else it will not send the message
