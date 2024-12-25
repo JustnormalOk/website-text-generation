@@ -1,21 +1,23 @@
 <img width="621" alt="Screenshot 2024-12-22 at 22 28 44" src="https://github.com/user-attachments/assets/0b05a14a-5b18-42af-a4a4-f0ed4a831e86" />
 
 # website-text-generation
-An AI web chat that has multiple characters, customizeable, free and even open-source!
+An AI web chat that has multiple characters, customizeable, free and even open-source! 
 
 # How it works:
 It works when you chat, create character, and even roleplay!
 
 <img width="1192" alt="Screenshot 2024-12-22 at 22 29 08" src="https://github.com/user-attachments/assets/e7d5336a-266c-42d1-8ac7-7a180ce1920c" />
+
 // Image 1: The main screen included a characted called Adam //
 
-
-So you pressed the chat...
+Chatting
 
 <img width="427" alt="Screenshot 2024-12-22 at 22 43 10" src="https://github.com/user-attachments/assets/01cdcea8-77ef-4aed-86da-92a41ae7ee5f" />
 // Image 2: A chat with Adam //
 
 you chat, like that.
+
+One last feature, it also works in offline, during power outage if you're bored! It only operates the AI on your laptop!
 
 # Instructions:
 **Notice**: This ai website may not work with some commands
